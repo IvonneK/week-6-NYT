@@ -1,0 +1,18 @@
+.jumbotron {
+    background-color: #003f7f;
+    color: #ffffff;
+ }
+ 
+ .panel-title {
+ 	background-color: #003f7f;
+ 	color: #ffffff;
+ 	font-weight: bold;;
+ }
+
+ #headline {
+ 	color: #003f7f;
+ }
+
+p {
+	color: #000000;
+}
